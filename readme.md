@@ -1,5 +1,11 @@
-Discord:gh0sty3213
+👋 - Hey there!
 
-.gg/clean on top
+🙋 -  My name is ghoulx and I work in coding i try and make stuff
 
-guns.lol/synx
+💻 - I am currently learning - java, CSS, HTML, and, C#
+
+🖥 - I currently code in vscode and Visual Studio
+
+🌐 - I currently know - batch.
+
+🌀 - you can contact me on X and Discord.
