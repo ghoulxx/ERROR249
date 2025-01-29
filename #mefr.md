@@ -1,11 +1,12 @@
-👋 - Hey there!
+Ⅰ|Ⅵ - Hey there!                                                  ⌉
 
-🙋 -  My name is ghoulx and I work in coding i try and make stuff
+Ⅱ|Ⅵ -  My name is ghoulx and I work in coding i try and make stuff
 
-💻 - I am currently learning - java, CSS, HTML, and, C#
+Ⅲ|Ⅵ - I am currently learning - java, CSS, HTML, and, C#
 
-🖥 - I currently code in vscode and Visual Studio
+Ⅳ|Ⅵ - I currently code in vscode and Visual Studio
 
-🌐 - I currently know - batch.
+Ⅴ|Ⅵ - I currently know - batch.
 
-🌀 - you can contact me on X and Discord.
+Ⅵ|Ⅵ - you can contact me on X and Discord.
+                                                                   ⌋
