@@ -9,4 +9,4 @@
 ❀- I currently know - batch.
 
 ❀ - you can contact me on X and Discord.
-                                                                   ⌋
+                                                                  
